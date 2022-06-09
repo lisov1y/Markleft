@@ -1,7 +1,3 @@
-# Dillinger
-## _The Last Markdown Editor, Ever_
-
-
 # Markleft
 ## _A simple markdown editor_
 Framework:
