@@ -1,0 +1,38 @@
+  $rich-black: #011C27;
+  $silver-chalice: #A0ACAD;
+  $header: #1f576e;
+
+
+  body {
+    margin: 0;
+    
+  }
+
+  #root, html {
+    background-color: $rich-black;
+  }
+
+  h1 {
+    color: $silver-chalice;
+  }
+
+  #arrow-click {
+    cursor: pointer;
+  }
+  
+  #editor {
+    min-height: 300px;
+    background-color: $silver-chalice;
+  }
+
+  #preview {
+    border: 1px solid black;
+    background-color: $silver-chalice;
+  }
+
+  .header {
+    border: 1px solid black;
+    border-bottom: 0;
+    background-color: $header;
+  }
+  
