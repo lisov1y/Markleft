@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Markleft/static/css/main.f8bfccdf.css",
+    "main.js": "/Markleft/static/js/main.9ef0059b.js",
+    "index.html": "/Markleft/index.html",
+    "main.f8bfccdf.css.map": "/Markleft/static/css/main.f8bfccdf.css.map",
+    "main.9ef0059b.js.map": "/Markleft/static/js/main.9ef0059b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f8bfccdf.css",
+    "static/js/main.9ef0059b.js"
+  ]
+}
